@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>524161702646-qn3irmlplib488cvqc27cvff6npgoknd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.524161702646-qn3irmlplib488cvqc27cvff6npgoknd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>524161702646-tb9nukv1fk2e8e812msbf7mre5cdgb07.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCPrDHsa-SFNK_BJfmJDXibmAyRBo-z1BI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>524161702646</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.foodpanda</string>
+	<key>PROJECT_ID</key>
+	<string>food-panda-8a6bd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>food-panda-8a6bd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:524161702646:ios:718f0542410f32e7a0ead7</string>
+</dict>
+</plist>
