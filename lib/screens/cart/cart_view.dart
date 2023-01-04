@@ -77,7 +77,7 @@ class CartView extends StatelessWidget {
       children: [
         Dismissible(
           direction: DismissDirection.endToStart,
-          key: Key(GlobalVariables.cartList[index].id.toString()),
+          key: UniqueKey(),
           onDismissed: (direction) {
             viewModel.deleteProduct(index);
           },
@@ -260,8 +260,6 @@ class CartView extends StatelessWidget {
       ),
     );
   }
-
-
 
   Widget applyButton() {
     return CustomElevatedBtn(
